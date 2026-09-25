@@ -1,7 +1,7 @@
 <p align="center">
   <img src="riolu_running.jpg" width="100%" />
 </p>
-<p align="center"><sub>Art by <a href="https://www.pinterest.com/eli_stoff/](https://www.pinterest.com/nijimasunoshioyaki/">くろちゃ〜ん
+<p align="center"><sub>Art by <a href="[https://www.pinterest.com/eli_stoff/](https://www.pinterest.com/nijimasunoshioyaki/](https://www.pinterest.com/nijimasunoshioyaki/)">くろちゃ〜ん
 </a></sub></p>
 
 <h1 align="center">Hi, I'm Steven 👋</h1>
