@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="riolu_running" width="50%" />
+  <img src="riolu_running.jp" width="100%" />
 </p>
 <p align="center"><sub>Art by <a href="[ARTIST_LINK]([https://www.pinterest.com/eli_stoff/](https://www.pinterest.com/nijimasunoshioyaki/))">くろちゃ〜ん
 </a></sub></p>
