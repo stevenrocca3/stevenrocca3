@@ -8,11 +8,11 @@
 <p align="center">
   <img height="50" src="./icons/Python-Dark.svg" />
   <img height="50" src="./icons/Java-Dark.svg" />
-  <img height="50" src="./profile/stats.svg" />
-  <img height="50" src="./profile/stats.svg" />
-  <img height="50" src="./profile/stats.svg" />
-  <img height="50" src="./profile/stats.svg" />
-  <img height="50" src="./profile/stats.svg" />
+  <img height="50" src="./icons/Supabase-Dark.svg" />
+  <img height="50" src="./icons/PostgreSQL-Dark.svg" />
+  <img height="50" src="./icons/React-Dark.svg" />
+  <img height="50" src="./icons/TailwindCSS-Dark.svg" />
+  <img height="50" src="./icons/Vite-Dark.svg" />
 </p>
 
 <p align="center">
