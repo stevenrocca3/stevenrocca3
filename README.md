@@ -3,7 +3,7 @@
 </p>
 <p align="center"><sub>Art by <a href="https://www.pinterest.com/nijimasunoshioyaki/">くろちゃ〜ん</a></sub></p>
 
-<h1 align="center">Hi, I'm Steven 👋</h1>
+<h1 align="center">Hey guys, Steven here</h1>
 
 <h2 align="center">💻 My Tech Stack:</h2>
 <p align="center">
