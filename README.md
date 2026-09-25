@@ -8,7 +8,7 @@
 <h2 align="center">💻 My Tech Stack:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,postgres,supabase,react,vue,tailwind,vite,flutter,aws,gcp,azure&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,java,postgres,supabase,react,vue,tailwind,vite&perline=6" />
   </a>
 </p>
 
