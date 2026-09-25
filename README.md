@@ -1,3 +1,3 @@
-![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenrocca3&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenrocca3&layout=compact&theme=tokyonight)
+![Steven's GitHub stats](./profile/stats.svg)
+![Top Langs](./profile/top-langs.svg)
 ![GitHub Streak](https://streak-stats.demolab.com?user=stevenrocca3&theme=tokyonight)
