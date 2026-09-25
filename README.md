@@ -6,6 +6,7 @@
 
 <h1 align="center"> :computer: My Tech Stack: </h1>
 <p align="center">
+  [![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
   <img height="50" src="./profile/Python-Dark.svg" />
   <img height="50" src="./profile/Java-Dark.svg" />
   <img height="50" src="./profile/Supabase-Dark.svg" />
