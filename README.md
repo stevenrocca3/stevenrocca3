@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./riolu_x_lucario.jpg" width="100%" />
+  <img src="gengar.png" width="100%" />
 </p>
 <p align="center"><sub>Art by <a href="[ARTIST_LINK](https://www.pinterest.com/eli_stoff/)">Omechi</a></sub></p>
 
