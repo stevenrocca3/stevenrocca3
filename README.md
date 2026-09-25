@@ -4,8 +4,15 @@
 <p align="center"><sub>Art by <a href="https://www.pinterest.com/nijimasunoshioyaki/">くろちゃ〜ん
 </a></sub></p>
 
-<h1 align="center"> :computer: My Tech Stack </h1>
+<h1 align="center"> :computer: My Tech Stack: </h1>
 <p align="center">
+  <img height="50" src="./profile/icons/Python-Dark.svg" />
+  <img height="50" src="./profile/icons/Java-Dark.svg" />
+  <img height="50" src="./profile/stats.svg" />
+  <img height="50" src="./profile/stats.svg" />
+  <img height="50" src="./profile/stats.svg" />
+  <img height="50" src="./profile/stats.svg" />
+  <img height="50" src="./profile/stats.svg" />
 </p>
 
 <p align="center">
