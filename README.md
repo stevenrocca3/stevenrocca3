@@ -6,13 +6,13 @@
 
 <h1 align="center"> :computer: My Tech Stack: </h1>
 <p align="center">
-  <img height="50" src="./icons/Python-Dark.svg" />
-  <img height="50" src="./icons/Java-Dark.svg" />
-  <img height="50" src="./icons/Supabase-Dark.svg" />
-  <img height="50" src="./icons/PostgreSQL-Dark.svg" />
-  <img height="50" src="./icons/React-Dark.svg" />
-  <img height="50" src="./icons/TailwindCSS-Dark.svg" />
-  <img height="50" src="./icons/Vite-Dark.svg" />
+  <img height="50" src="./profile/Python-Dark.svg" />
+  <img height="50" src="./profile/Java-Dark.svg" />
+  <img height="50" src="./profile/Supabase-Dark.svg" />
+  <img height="50" src="./profile/PostgreSQL-Dark.svg" />
+  <img height="50" src="./profile/React-Dark.svg" />
+  <img height="50" src="./profile/TailwindCSS-Dark.svg" />
+  <img height="50" src="./profile/Vite-Dark.svg" />
 </p>
 
 <p align="center">
