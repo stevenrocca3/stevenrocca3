@@ -14,6 +14,3 @@
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=stevenrocca3&theme=tokyonight" />
 </p>
-
-![Top Langs](./profile/top-langs.svg)
-![GitHub Streak](https://streak-stats.demolab.com?user=stevenrocca3&theme=tokyonight)
