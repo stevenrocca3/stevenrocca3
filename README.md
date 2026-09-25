@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="gengar.png" width="100%" />
+  <img src="gengar.png" width="50%" />
 </p>
 <p align="center"><sub>Art by <a href="[ARTIST_LINK](https://www.pinterest.com/eli_stoff/)">Omechi</a></sub></p>
 
