@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400" role="img" aria-label="Steven Rocca — Computer Science and Statistics, University of Pittsburgh">
+<style>
+  text{font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","Helvetica Neue",Helvetica,Arial,sans-serif;text-anchor:middle}
+  .h{font-weight:600;letter-spacing:-0.022em}
+  .s{font-weight:400;letter-spacing:-0.01em}
+  .e{font-weight:600;letter-spacing:0.01em}
+  .b{font-weight:400;letter-spacing:-0.016em}
+</style>
+<rect width="1200" height="400" rx="22" fill="#000000"/>
+<defs><linearGradient id="g" x1="0" x2="1">
+  <stop offset="0" stop-color="#2997ff"/><stop offset="0.5" stop-color="#a855f7"/><stop offset="1" stop-color="#ff6b6b"/>
+</linearGradient></defs>
+<text x="600" y="128" class="e" font-size="21" fill="#a1a1a6">Computer Science + Statistics · University of Pittsburgh</text>
+<text x="600" y="232" class="h" font-size="96" fill="#f5f5f7">Steven Rocca.</text>
+<text x="600" y="306" class="s" font-size="32" fill="url(#g)">Tools where the data has to be right.</text>
+</svg>

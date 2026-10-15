@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="590" height="600" viewBox="0 0 590 600" role="img" aria-label="DexPresso — 4,096 IV spreads, one clear answer">
+<style>
+  text{font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","Helvetica Neue",Helvetica,Arial,sans-serif;text-anchor:middle}
+  .h{font-weight:600;letter-spacing:-0.022em}
+  .s{font-weight:400;letter-spacing:-0.01em}
+  .e{font-weight:600;letter-spacing:0.01em}
+  .b{font-weight:400;letter-spacing:-0.016em}
+</style>
+<rect width="590" height="600" rx="22" fill="#161617"/>
+<defs><linearGradient id="d" x1="0" x2="1"><stop offset="0" stop-color="#ff9f0a"/><stop offset="1" stop-color="#ff375f"/></linearGradient></defs>
+<text x="295" y="96" class="h" font-size="48" fill="#f5f5f7">DexPresso</text>
+<text x="295" y="140" class="s" font-size="22" fill="#f5f5f7">4,096 IV spreads.</text>
+<text x="295" y="170" class="s" font-size="22" fill="#f5f5f7">One clear answer.</text>
+<text x="295" y="206" class="s" font-size="16" fill="#a1a1a6">PvP IV ranking for Pokémon GO.</text>
+<rect x="174.8" y="236" width="118.0" height="40" rx="20" fill="#0071e3"/>
+<text x="233.8" y="262" class="b" font-size="17" fill="#ffffff">Learn more</text>
+<rect x="307.3" y="236.5" width="107.4" height="39" rx="19.5" fill="none" stroke="#2997ff"/>
+<text x="361.0" y="262" class="b" font-size="17" fill="#2997ff">View code</text>
+<text x="295" y="356" class="h" font-size="15" fill="#a1a1a6">RANK #1 OF 4,096 · GREAT LEAGUE</text>
+<text x="118" y="406" class="b" font-size="15" fill="#a1a1a6" style="text-anchor:end">Attack</text>
+<rect x="136" y="392" width="300" height="18" rx="9" fill="#f5f5f7" opacity="0.08"/>
+<rect x="136" y="392" width="80" height="18" rx="9" fill="url(#d)"/>
+<text x="466" y="406" class="h" font-size="16" fill="#f5f5f7">4</text><text x="118" y="464" class="b" font-size="15" fill="#a1a1a6" style="text-anchor:end">Defense</text>
+<rect x="136" y="450" width="300" height="18" rx="9" fill="#f5f5f7" opacity="0.08"/>
+<rect x="136" y="450" width="300" height="18" rx="9" fill="url(#d)"/>
+<text x="466" y="464" class="h" font-size="16" fill="#f5f5f7">15</text><text x="118" y="522" class="b" font-size="15" fill="#a1a1a6" style="text-anchor:end">Stamina</text>
+<rect x="136" y="508" width="300" height="18" rx="9" fill="#f5f5f7" opacity="0.08"/>
+<rect x="136" y="508" width="280" height="18" rx="9" fill="url(#d)"/>
+<text x="466" y="522" class="h" font-size="16" fill="#f5f5f7">14</text>
+</svg>

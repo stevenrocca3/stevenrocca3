@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-label="Toolkit: Python, Java, TypeScript, React, Vue, Tailwind, Vite, Postgres, Supabase, Rust, R">
+<style>
+  text{font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","Helvetica Neue",Helvetica,Arial,sans-serif;text-anchor:middle}
+  .h{font-weight:600;letter-spacing:-0.022em}
+  .s{font-weight:400;letter-spacing:-0.01em}
+  .e{font-weight:600;letter-spacing:0.01em}
+  .b{font-weight:400;letter-spacing:-0.016em}
+</style>
+<rect width="1200" height="380" rx="22" fill="#f5f5f7"/>
+<defs><linearGradient id="k" x1="0" x2="1">
+  <stop offset="0" stop-color="#0a84ff"/><stop offset="0.35" stop-color="#5e5ce6"/><stop offset="0.7" stop-color="#bf5af2"/><stop offset="1" stop-color="#ff375f"/>
+</linearGradient></defs>
+<text x="600" y="96" class="e" font-size="21" fill="#6e6e73">Toolkit</text>
+<text x="600" y="176" class="h" font-size="54" fill="url(#k)">Python. Java. TypeScript. React. Vue.</text>
+<text x="600" y="244" class="h" font-size="54" fill="url(#k)">Tailwind. Vite. Postgres. Supabase. Rust. R.</text>
+<text x="600" y="306" class="s" font-size="21" fill="#6e6e73">From Postgres schema to pixel. Statistics all the way down.</text>
+</svg>

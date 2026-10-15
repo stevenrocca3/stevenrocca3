@@ -13,20 +13,36 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      - name: Generate stats card
+      - name: Generate stats card (dark)
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight
-          path: profile/stats.svg
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&border_radius=22&bg_color=161617&title_color=f5f5f7&text_color=a1a1a6&icon_color=2997ff
+          path: profile/stats-dark.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate top languages card
+      - name: Generate stats card (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&hide_border=true&border_radius=22&bg_color=f5f5f7&title_color=1d1d1f&text_color=6e6e73&icon_color=0071e3
+          path: profile/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card (dark)
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&theme=tokyonight
-          path: profile/top-langs.svg
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&hide_border=true&border_radius=22&bg_color=161617&title_color=f5f5f7&text_color=a1a1a6&icon_color=2997ff
+          path: profile/top-langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card (light)
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&hide_border=true&border_radius=22&bg_color=f5f5f7&title_color=1d1d1f&text_color=6e6e73&icon_color=0071e3
+          path: profile/top-langs-light.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
