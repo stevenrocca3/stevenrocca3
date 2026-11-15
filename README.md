@@ -17,13 +17,13 @@
 </a>
 
 <p>
-  <a href="https://github.com/stevenrocca3/pokemon-team-optimizer"><picture><source media="(prefers-color-scheme: dark)" srcset="./profile/tiles/dexpresso-dark.svg" /><img alt="DexPresso — 4,096 IV spreads, one clear answer. PvP IV ranking for Pokémon GO." src="./profile/tiles/dexpresso-light.svg" width="49.5%" /></picture></a>
+  <a href="https://github.com/stevenrocca3/pokemon-team-optimizer"><picture><source media="(prefers-color-scheme: dark)" srcset="./profile/tiles/dexpresso-dark.svg" /><img alt="DexPresso — 1000's of PokemonGO teaks, only one for you." src="./profile/tiles/dexpresso-light.svg" width="49.5%" /></picture></a>
   <a href="https://github.com/ald3nreagins/compass"><picture><source media="(prefers-color-scheme: dark)" srcset="./profile/tiles/compass-dark.svg" /><img alt="Compass — know before the market does. AI due diligence, built at SteelHacks XII." src="./profile/tiles/compass-light.svg" width="49.5%" /></picture></a>
 </p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile/tiles/toolkit-dark.svg" />
-  <img alt="Toolkit: Python, Java, TypeScript, React, Vue, Tailwind, Vite, Postgres, Supabase, Rust, R." src="./profile/tiles/toolkit-light.svg" width="100%" />
+  <img alt="Toolkit: Python, Java, TypeScript, React, Postgres, SQL, Docker, R." src="./profile/tiles/toolkit-light.svg" width="100%" />
 </picture>
 
 <p align="center">
